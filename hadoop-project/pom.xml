@@ -65,7 +65,7 @@
     <avro.version>1.7.4</avro.version>
 
     <!-- jersey version -->
-    <jersey.version>1.9</jersey.version>
+    <jersey.version>1.19.4</jersey.version>
 
     <!-- jackson versions -->
     <jackson.version>1.9.13</jackson.version>
